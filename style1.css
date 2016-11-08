@@ -1,0 +1,34 @@
+p, .container-fluid {
+    
+    margin-right:10%;
+    margin-left: 10%;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #e4f1fe;
+    font-family: sans-serif;
+    
+}
+
+body {
+    position: relative;
+    background-color: #0d493b;
+}
+
+.well {
+    margin-right: 3%;
+    margin-left: 3%;
+    background-color:#0d493b;
+}
+
+footer {
+    min-height: 8vh;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    background-color: black;
+    
+}
+section {
+    min-height: 91.8vh;
+    font-size: 18px;
+    font-weight: 300;
+}
